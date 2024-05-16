@@ -45,4 +45,8 @@ if __name__ == "__main__":
         conexion(ip, comando)
         carac = input("¿Desea hacer mas consultas(y = si n = no): ?")
         carac = carac.lower()
+'''
+trae la confliguracion de las interfaces, y filtra por el parámetro de last input, el cual muestra la ultima vez en la que la interfaz
+fue usada
+'''
 
